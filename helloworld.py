@@ -1,1 +1,1 @@
-print("Hello world in version 1");
+print("Hello world in version 2");
